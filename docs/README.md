@@ -63,7 +63,7 @@ An intuitive, lightweight menu navigation system for the **ESP32-C3**. This proj
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/esp32c3-rotary-menu.git
+    git clone https://github.com/kings-elvis/esp32c3-rotary-menu.git
     ```
 2.  Upload the contents of the `src/` directory to your ESP32-C3.
 3.  Reset the board, and the menu will appear on your OLED display.
