@@ -85,9 +85,9 @@ Contributions make the open-source community an amazing place to learn and creat
 
 ## 👤 Authors
 
-[Elvis King'ori](github.com/kings-elvis)
-[Beverly Langat](github.com/Beverly-langat)
-[Delvan Mucheru](github.com/mucheru-delvan)
+*[Elvis King'ori](https://github.com/kings-elvis)
+*[Beverly Langat](https://github.com/Beverly-langat)
+*[Delvan Mucheru](https://github.com/mucheru-delvan)
   -----
 
 ## 📄 License
